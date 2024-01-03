@@ -16,3 +16,8 @@ alias git='git_add_function'
 ```
 brew install ffmpeg
 ```
+
+3, 
+```
+git ado
+```
